@@ -1,6 +1,7 @@
-This is the code and the raw data of the paper: Generalized Toffoli Gates with Customizable Single-Step Multiple-Qubit Control by 
-Chung-Kai Wu, Dah-Wei Chiou, and Jie-Hong Roland Jiang.
-Graduate Institute of Electronics Engineering, National Taiwan University, Taipei, Taiwan
+This repository contains the Python simulation code (Simulation.py) and all raw numerical data (RawData.xlsx) that underpin the results reported in
+“Generalized Toffoli Gates with Customizable Single-Step Multiple-Qubit Control,”
+by Chung-Kai Wu, Dah-Wei Chiou, and Jie-Hong Roland Jiang,
+Graduate Institute of Electronics Engineering, National Taiwan University, Taipei, Taiwan.
 
 This repository contains:
 
